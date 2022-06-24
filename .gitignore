@@ -452,3 +452,10 @@ $RECYCLE.BIN/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+
+DBFramework/bin
+DBFramework/obj
+MTNIntelligenceSuite/bin
+MTNIntelligenceSuite/obj
+RestFramework/bin
+RestFramework/obj
